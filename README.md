@@ -1,0 +1,3 @@
+Notice: This software contains modifications to the original source code of the program 'lrslib-072', which is licensed under the GNU General Public License (GPL) Version 2, June 1991. The modifications made were to remove code that was not necessary to compile 'lrsnash1' and to make the code available as a library for C++ projects.
+
+The modifications made are released under the same GPL license terms as the original software. The original copyright and license notice is preserved.
